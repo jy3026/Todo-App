@@ -1,4 +1,4 @@
-# todo-homework-repository
+# Todo-App
 
 프로젝트 도입전 만들어본 Todo CRUD
 </br>
